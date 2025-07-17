@@ -91,5 +91,3 @@ rubiks-cube-solver/
 - `resources/*.png` – Overlay arrows for each face turn (e.g., `R.png`, `U'.png`, etc.)  
 
 ---
-
-Built with ❤️ by **Aditya Ajay**
