@@ -1,0 +1,1 @@
+# Rubick-s-cube-solving-algorithm
